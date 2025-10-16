@@ -1,4 +1,4 @@
 #!/bin/bash
 
 server_ip="172.16.12.1"
-echo "The service ip adress is $service_ip"
+echo "The service ip adress is $server_ip"
